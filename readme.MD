@@ -35,8 +35,6 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 -  [Redux-Saga](https://redux-saga.js.org/)
 -  [React Navigation](https://reactnavigation.org/)
 -  [Axios](https://github.com/axios/axios)
--  [Immer](https://github.com/immerjs/immer)
--  [NumeralJS](http://numeraljs.com/)
 -  [styled-components](https://www.styled-components.com/)
 -  [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 -  [Reactotron](https://infinite.red/reactotron)
