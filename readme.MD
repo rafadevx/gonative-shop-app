@@ -20,10 +20,10 @@
 </p>
 
 
-<p align="center">
-  <img alt="Screen with products list" src="./screens/screen1.png">
-  <img alt="Screen with product's details" src="./screens/screen2.png">
-  <img alt="Screen with shopping cart" src="./screens/screen3.png">
+<p align="center" width="100%">
+  <img alt="Screen with products list" src="./screens/screen1.png" width="40%">
+  <img alt="Screen with product's details" src="./screens/screen2.png" width="40%">
+  <img alt="Screen with shopping cart" src="./screens/screen3.png" width="40%">
 </p>
 
 ## :rocket: Technologies
