@@ -66,7 +66,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/rafa
 
 ---
 
-💻 Made by Luke Morales 💬 [Get in touch!](https://www.linkedin.com/in/rafael-del-grossi-b9063831)
+💻 Made by Rafael Del Grossi 💬 [Get in touch!](https://www.linkedin.com/in/rafael-del-grossi-b9063831)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
